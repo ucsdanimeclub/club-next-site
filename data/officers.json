@@ -33,6 +33,24 @@
       ]
     },
     {
+      "image": "images/officer_images/gwen.png",
+      "name": "Gwen Henrich",
+      "description": [
+        "Heya, I'm Gwen! I'm a Biological Anthropology major at Revelle. I'm not too picky with anime genres, I'll watch anything if its interesting. That being said, some of my favorites are Blue Period, Mob Psycho 100, and The Case Study of Vanitas. I do also love a fair amount of video games, some of my favorites being The Witcher, Ace Attorney, Hollow Knight, Hades, along with Nintendo franchises and TTRPGs. Outside of that, I also really enjoy gothic and classical literature! With that being said, I hope you have a great time at AME!"
+      ],
+      "contact": [
+        {
+          "title": "Email",
+          "handle": "ghenrich@ucsd.edu",
+          "url": "mailto:ghenrich@ucsd.edu"
+        },
+        {
+          "title": "Discord",
+          "handle": "gwen#0996"
+        }
+      ]
+    },
+    {
       "image": "images/officer_images/maomao.jpg",
       "name": "Jasmine Macy",
       "description": [
