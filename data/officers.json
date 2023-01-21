@@ -93,6 +93,19 @@
       ]
     },
     {
+      "image": "images/officer_images/not_a_anime_fan.png",
+      "name": "Melvin Pascual",
+      "description": [
+        "Hola, My name is Melvin and I'm a third year Human Biology Major at Muir. A few things I like to do in my free time is play gacha games (Genshin Impact, Arknights, and Konosuba Fantastic Days), build gunpla, and dabble in a little bit of Sumo Wrestling. A fun fact about me is that I fluent in both English and Spanish, while also learning Japanese. As for anime, some of my favorites include Tsurezure Children, Gurren Lagann, Konosuba, In/Spectre, Oregairu (Yui is best girl !), ReLife, Macross F, Gundam Series, and Ansatsu Kyoushitsu. I have no set genre of anime that I watch so I am open to anything you may want to recommend me. If you see me at GBM feel free to come up to me and talk about whatever. I hope you enjoy your time here at AME!!!"
+      ],
+      "contact": [
+        {
+          "title": "Discord",
+          "handle": "Not_A_Anime_Fan#0420"
+        }
+      ]
+    },
+    {
       "image": "images/officer_images/nicelodeon.jpg",
       "name": "Nicolas Rodriguez",
       "description": [
@@ -117,6 +130,11 @@
         "I'm Owen, a 3rd year Bioengineer: Bioinformatics major in Sixth College. My favorite AMV series is Milgram and favorite manga is Frieren: Beyond Journey's End; I am also an avid Genshin player (Yoimiya and Ganyu main)!! Friend me on my MyAniList, HikikomoriCrisis!"
       ],
       "contact": [
+        {
+          "title": "Email",
+          "handle": "ocguan@ucsd.edu",
+          "url": "mailto:ocguan@ucsd.edu"
+        },
         {
           "title": "Discord",
           "handle": "IshigamiCrisis#0545"
@@ -143,6 +161,24 @@
         {
           "title": "Discord",
           "handle": "Jaewoohoo#0990"
+        }
+      ]
+    },
+    {
+      "image": "images/officer_images/tigerfleur.png",
+      "name": "Tiffany Stanford",
+      "description": [
+        "Hello! I’m Tiffany, a General Bio major at ERC. I’m a fan of good food related shows or slice of life series with some of my favorite manga being Dungeon Meshi, Blue Period, and Wotakoi. I also enjoy a couple of games such as Genshin Impact (Itto main!!) and Ensemble Stars. Other than that, I love drawing, crocheting, and cooking in my spare time. Hope you have a fun time in AME!"
+      ],
+      "contact": [
+        {
+          "title": "Email",
+          "handle": "tstanford@ucsd.edu",
+          "url": "mailto:tstanford@ucsd.edu"
+        },
+        {
+          "title": "Discord",
+          "handle": "Tigerfleur#7092"
         }
       ]
     }
