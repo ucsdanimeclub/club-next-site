@@ -110,6 +110,24 @@
         }
       ]
     },
+        {
+      "image": "images/officer_images/kishen.jpg",
+      "name": "Kishen Thevandran",
+      "description": [
+        "Hello everyone! My name is Kishen. I’m a first year CSE major in Warren and I’m an international student from Malaysia.", "My favorite anime has got to be Naruto (I’m a fellow Itachi enjoyer) and I’m catching up to the latest episodes of Boruto (trust me, it gets good at 200 episodes). I’ve also recently gotten into the Persona series, namely Persona 5 Royal, and am currently working through Persona 4 Golden. Feel free to drop me any questions you may have on Discord."
+      ],
+      "contact": [
+        {
+          "title": "Email",
+          "handle": "kthevandran@ucsd.edu",
+          "url": "mailto:kthevandran@ucsd.edu"
+        },
+        {
+          "title": "Discord",
+          "handle": "kishenrex#1554"
+        }
+      ]
+    },
     {
       "image": "images/officer_images/not_a_anime_fan.png",
       "name": "Melvin Pascual",
