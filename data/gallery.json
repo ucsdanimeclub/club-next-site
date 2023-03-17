@@ -1,5 +1,43 @@
 {
   "gallery": {
+    "2022-2023": [
+      {
+        "image": "images/gallery/miac_collab_2022.PNG",
+        "thumbnail": "images/gallery/thumbnail/miac_collab_2022_thumbnail.png",
+        "description": "Fall 2022 Magma Collaboration Vs. The Multi-Identity Art Collective"
+      },
+      {
+        "image": "images/gallery/af2023_logo.png",
+        "thumbnail": "images/gallery/thumbnail/af2023_logo_thumbnail.png",
+        "description": "AF23 Logo",
+        "credits": [
+          {
+            "creator": "Justus"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/af23_sungod.png",
+        "thumbnail": "images/gallery/thumbnail/af23_sungod_thumbnail.png",
+        "description": "AF23 Hina",
+        "credits": [
+          {
+            "creator": "maomao"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/af23_triton.png",
+        "thumbnail": "images/gallery/thumbnail/af23_triton_thumbnail.png",
+        "description": "AF23 Triton",
+        "credits": [
+          {
+            "creator": "ChibiBrain",
+            "url": "https://www.instagram.com/chibibrain/"
+          }
+        ]
+      }
+    ],
     "2021-2022": [
       {
         "image": "images/gallery/2022_padoru.png",
