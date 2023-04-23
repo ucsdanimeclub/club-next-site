@@ -92,25 +92,6 @@
       ]
     },
     {
-      "image": "images/officer_images/bite.png",
-      "name": "Kaitlyn Chan",
-      "description": [
-        "Hello! I'm Kaitlyn, though I also go by Kite (or Bite). I'm a data science major in Seventh. I enjoy watching hobby anime, most of which are card games."
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "k6chan@ucsd.edu",
-          "url": "mailto:k6chan@ucsd.edu"
-        },
-        {
-          "title": "AniList",
-          "handle": "Bite",
-          "url": "https://anilist.co/user/Bite"
-        }
-      ]
-    },
-        {
       "image": "images/officer_images/kishen.jpg",
       "name": "Kishen Thevandran",
       "description": [
