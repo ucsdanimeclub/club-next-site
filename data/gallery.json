@@ -27,13 +27,95 @@
         ]
       },
       {
-        "image": "images/gallery/af23_triton.png",
-        "thumbnail": "images/gallery/thumbnail/af23_triton_thumbnail.png",
+        "image": "images/gallery/Triton AF23 resized (crop).png",
+        "thumbnail": "images/gallery/thumbnail/Triton AF23 resized (crop)_thumbnail.png",
         "description": "AF23 Triton",
         "credits": [
           {
             "creator": "ChibiBrain",
             "url": "https://www.instagram.com/chibibrain/"
+          }
+        ]
+      }, 
+      {
+        "image": "images/gallery/hina-by-vigaswoo.png",
+        "thumbnail": "images/gallery/thumbnail/hina-by-vigaswoo_thumbnail.png",
+        "description": "AF23 Hina Fanart",
+        "credits": [
+          {
+            "creator": "vigaswoo"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/hina.png",
+        "thumbnail": "images/gallery/thumbnail/hina_thumbnail.png",
+        "description": "Hina Fanart",
+        "credits": [
+          {
+            "creator": "Fae",
+            "url": "https://twitter.com/faerytale_"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/hinaur.png",
+        "thumbnail": "images/gallery/thumbnail/hinaur_thumbnail.png",
+        "description": "Hina Fanart",
+        "credits": [
+          {
+            "creator": "thwoppy"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/buddyCop4-1-23.png",
+        "thumbnail": "images/gallery/thumbnail/buddyCop4-1-23_thumbnail.png",
+        "description": "Hina(ta ♂) and Kai Buddy Cop Fanart",
+        "credits": [
+          {
+            "creator": "USHOU_",
+            "url": "https://twitter.com/USHOU_"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/Character Design Sheet.png",
+        "thumbnail": "images/gallery/thumbnail/Character Design Sheet_thumbnail.png",
+        "description": "Hina Kamidori Reference Sheet",
+        "credits": [
+          {
+            "creator": "maomao"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/DISCORD HEADER.png",
+        "thumbnail": "images/gallery/thumbnail/DISCORD HEADER_thumbnail.png",
+        "description": "Hina Vroid Key Art",
+        "credits": [
+          {
+            "creator": "maomao"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/ty_1_1.png",
+        "thumbnail": "images/gallery/thumbnail/ty_1_1_thumbnail.png",
+        "description": "Hina Vroid Key Art",
+        "credits": [
+          {
+            "creator": "maomao"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/smol kai.png",
+        "thumbnail": "images/gallery/thumbnail/smol kai_thumbnail.png",
+        "description": "Tiny Kai",
+        "credits": [
+          {
+            "creator": "maomao"
           }
         ]
       }
@@ -143,6 +225,17 @@
         "image": "images/gallery/2022_aggiesp22.png",
         "thumbnail": "images/gallery/thumbnail/2022_aggiesp22_thumbnail.png",
         "description": "Spring 2022 aggie.io"
+      }, 
+      {
+        "image": "images/gallery/triton by USHOU_.png",
+        "thumbnail": "images/gallery/thumbnail/triton by USHOU__thumbnail.png",
+        "description": "AF22 Kai Fanart",
+        "credits": [
+          {
+            "creator": "USHOU_",
+            "url": "https://twitter.com/USHOU_"
+          }
+        ]
       }
     ],
     "2020-2021": [
