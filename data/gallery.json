@@ -118,6 +118,31 @@
             "creator": "maomao"
           }
         ]
+      },
+      {
+        "image": "images/gallery/hina by will.png",
+        "thumbnail": "images/gallery/thumbnail/hina by will_thumbnail.png",
+        "description": "Hina Throwing Trident",
+        "credits": [
+          {
+            "creator": "Will_"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/aggie_sp23.png",
+        "thumbnail": "images/gallery/thumbnail/aggie_sp23_thumbnail.png",
+        "description": "Spring 2023 aggie.io"
+      },
+      {
+        "image": "images/gallery/hinamogus.jpg",
+        "thumbnail": "images/gallery/thumbnail/hinamogus_thumbnail.png",
+        "description": "Hinamongus Fanart",
+        "credits": [
+          {
+            "creator": "mogus"
+          }
+        ]
       }
     ],
     "2021-2022": [
