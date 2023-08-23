@@ -1,5 +1,12 @@
 {
   "gallery": {
+    "2023-2024": [
+      {
+        "image": "images/gallery/aggie_su23.png",
+        "thumbnail": "images/gallery/thumbnail_making_area/aggie_su23_thumbnail.png",
+        "description": "Summer 2023 aggie.io"
+      }
+    ],
     "2022-2023": [
       {
         "image": "images/gallery/miac_collab_2022.PNG",
