@@ -51,29 +51,6 @@
       ]
     },
     {
-      "image": "images/officer_images/maomao.jpg",
-      "name": "Jasmine Macy",
-      "description": [
-        "Heiyo, I'm Jasmine. I'm currently majoring in Global Health. Within the club itself, I'm responsible for meeting minutes and planning our GBM events. I'm also in charge of AME's graphic design, having designed various flyers and the like.", "I tend to love watching anime with interesting visuals and animation, especially from directors like Masaaki Yuasa and Hiroyuki Imaishi. Admittedly I'm more of a manga reader, and some of my top favorites include Dr. Stone, Berserk, and Dungeon Meshi.","Additionally I'm a huge fan of video games, and I'll be more than happy to chat about Pokemon, Fire Emblem, Persona, and many other things.","I hope you'll have a wonderful experience with Anime & Manga Enthusiasts! Feel free to contact any one of us officers for any comments and concerns ∠( ᐛ 」∠)＿"
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "mmacy@ucsd.edu",
-          "url": "mailto:mmacy@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "maomao#3393"
-        },
-        {
-          "title": "MyAnimeList",
-          "handle": "icelemontea",
-          "url": "https://myanimelist.net/profile/icelemontea"
-        }
-      ]
-    },
-    {
       "image": "images/officer_images/xenoleaf.png",
       "name": "Justus Vang",
       "description": [
@@ -92,7 +69,7 @@
       ]
     },
     {
-      "image": "images/officer_images/kishen.jpg",
+      "image": "images/officer_images/kishen2_cropped.png",
       "name": "Kishen Thevandran",
       "description": [
         "Hello everyone! My name is Kishen. I’m a first year CSE major in Warren and I’m an international student from Malaysia.", "My favorite anime has got to be Naruto (I’m a fellow Itachi enjoyer) and I’m catching up to the latest episodes of Boruto (trust me, it gets good at 200 episodes). I’ve also recently gotten into the Persona series, namely Persona 5 Royal, and am currently working through Persona 4 Golden. Feel free to drop me any questions you may have on Discord."
@@ -142,24 +119,6 @@
           "title": "MyAnimeList",
           "handle": "MintWaffles",
           "url": "https://myanimelist.net/profile/MintWaffles"
-        }
-      ]
-    },
-    {
-      "image": "images/officer_images/nicelodeon.jpg",
-      "name": "Nicolas Rodriguez",
-      "description": [
-        "Hi there, my name is Nicolas but you can call me Nic. I am a political science major in Marshall college. As far as anime goes I like to watch pretty much anything and am always looking for suggestions if you have any. My favorites would probably be In/Spectre, JJK, Dororo, Rising of Shield Hero, and Kaguya-Sama. I also like to play lots of different kinds of games but I have been really into Apex if you ever need another person to play with. Besides those things I am a film buff, a runner, and someone who enjoys learning about different things, especially different cultures. I am also in the process of learning Japanese so if you ever wanna study together let me know, I could definitely use it. Hope you enjoy your time in the club and have fun finding a community for you!"
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "njrodriguez@ucsd.edu",
-          "url": "mailto:njrodriguez@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "Nicelodeon#4193"
         }
       ]
     },
