@@ -28,7 +28,7 @@ export default function Home() {
                         <Col xs={12} sm={12} md={7} className="py-2">
                             <Ratio aspectRatio="4x3">
                                 <iframe
-                                    src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=dWNzZGFuaW1lY2x1YkBnbWFpbC5jb20&color=%23039BE5"
+                                    src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=1&showNav=0&showDate=1&showCalendars=1&showTabs=0&title&src=NDIwNjI4ZDNiMzU4NDdmZjAwOWI2NmMyMGMxYzIyZDhiODgwY2Q3ZTcwODUxMDFjMGEwNDBjMjU3YjMwYzY3YkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA"
                                     width="800" height="600">
                                 </iframe>
                             </Ratio>
