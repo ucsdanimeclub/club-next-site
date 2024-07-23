@@ -1,38 +1,6 @@
 {
   "officers": [
     {
-      "image": "images/officer_images/pikapowera.png",
-      "name": "Ann Chwu",
-      "description": [
-        "Hello, I’m Ann, but I also go by Pika! I’m a cogsci - design and interaction major from ERC. I love a lot of shows with cute girls: Madoka Magica, Hidamari Sketch, Yuru Camp, to name a few. I also really enjoy other random shows, such Mawaru Penguindrum, Odd Taxi, Silver Spoon, and I usually keep up with what's popular. I don't read manga as much, but my favorites are Oyasumi Punpun, Fruits Basket, and Houseki no Kuni. Outside of anime and manga, I love games like Undertale/Deltarune, Omori, and other RPGmaker type things. If you like any of these things or have a recommendation, feel free to reach out to me! I hope you have a fun experience with AME!"
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "achwu@ucsd.edu",
-          "url": "mailto:achwu@ucsd.edu"
-        }
-      ]
-    },
-    {
-      "image": "images/officer_images/chibibrain.jpg",
-      "name": "Brian Gao",
-      "description": [
-        "Hiya, I'm Brian, and I'm a general bio major at Seventh College. I'm a massive JoJo fan and I love fantasy, slice of life, and horror stuff (although good horror anime are so rare to find). Beyond anime I really like watching Youtube, Indie Animations, Western Cartoons and I love playing TTRPGs and drawing."
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "bkgao@ucsd.edu",
-          "url": "mailto:bkgao@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "ChibiBrain"
-        }
-      ]
-    },
-    {
       "image": "images/officer_images/gwen.png",
       "name": "Gwen Henrich",
       "description": [
@@ -87,24 +55,6 @@
       ]
     },
     {
-      "image": "images/officer_images/melvin2.png",
-      "name": "Melvin Pascual",
-      "description": [
-        "Hola and Yahallo, My name is Melvin and I'm a fourth year Human Biology Major at Muir. I am a gacha games enjoyer (Genshin Impact, Honkai Star Rail, TES, FGO, and Reverse 1999). When I am not playing gacha games, I am probably cooking, scrolling Spanish social media, reading manga, making emotes for the server, or hanging out with friends. A fun fact about me is that I fluent in both English and Spanish, while also learning Japanese. As for anime, some of my favorites include Gurren Lagann, Konosuba, In/Spectre, Oregairu (Yui is best girl!), ReLife, Macross F, Gundam Series, and recently My Happy Marriage. I have no set genre of anime that I watch so I am open to anything you may want to recommend me. If you see me at GBM feel free to come up to me and talk about whatever. I hope you enjoy your time here at AME!!!"
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "mepascua@ucsd.edu",
-          "url": "mailto:mepascua@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "culturedmexicano"
-        }
-      ]
-    },
-    {
       "image": "images/officer_images/brandon_2024.jpg",
       "name": "Brandon Tse",
       "description": [
@@ -124,47 +74,6 @@
           "title": "MyAnimeList",
           "handle": "MintWaffles",
           "url": "https://myanimelist.net/profile/MintWaffles"
-        }
-      ]
-    },
-    {
-      "image": "images/officer_images/owen_profile2.jpg",
-      "name": "Owen Guan",
-      "description": [
-        "I'm Owen, a 4th year Bioengineer: Bioinformatics major in Sixth College. My favorite AMV series is Milgram and favorite manga is Frieren: Beyond Journey's End; I am also an avid gacha player (Eula main in Genshin, QQ in Star Rail, and Mizuki simp in Proseka)~ I also love cosplaying and just expressing myself!"
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "ocguan@ucsd.edu",
-          "url": "mailto:ocguan@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "ishigamicrisis"
-        },
-        {
-          "title": "AniList",
-          "handle": "HikikomoriCrisis",
-          "url": "https://anilist.co/user/HikikomoriCrisis/"
-        }
-      ]
-    },
-    {
-      "image": "images/officer_images/jaewoohoo.png",
-      "name": "Sosuke Kojima",
-      "description": [
-        "Konnichiwa, my name is Sosuke (pronounced like Sasuke but with an O), and I am a fourth year majoring in mechanical engineering. Being born and raised in Japan, I love it when animangas take inspiration from real locations in Japan, as it can feel nostalgic (especially Kyoto). Now to list the things I like: Rezero, Higurashi, Kaguyasama, Genshin, digital drawing, playing J-pop on piano, cycling and much more that I don't have the space to write."
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "skojima@ucsd.edu",
-          "url": "mailto:skojima@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "Jaewoohoo"
         }
       ]
     },
