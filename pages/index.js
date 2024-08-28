@@ -12,25 +12,25 @@ export default function Home() {
             <Container className="mb-4">
                 <div className="border-bottom border-light mb-4">
                     <Row className="align-items-center mb-4">
-                        <Col xs={12} sm={12} md={5} className="py-2">
-                            <p className="title-size title-font-condensed text-uppercase border-bottom">Future
+                        <Col xs={12} sm={12} md={8} className="py-2">
+                            <p className="title-size title-font-condensed text-uppercase border-bottom text-center">Future
                                 Events!</p>
-                            <p className="mb-4">We hold GBMs every Monday evening and other events throughout the
+                            <p className="mb-2 text-center">We hold GBMs every Monday evening and other events throughout the
                                 quarter. Although we are
                                 currently preparing for Animefest, we still have plenty of other events happening this
                                 quarter. Check our Discord or Facebook group for details!</p>
+                                <p className="mp-4 text-center text1">Check our Discord or Facebook group for details!</p>
                             <div className="d-grid">
                                 <Button variant="primary" size="lg"
                                         href="https://www.facebook.com/groups/ucsdanimeclub">View
                                     our upcoming events</Button>
                             </div>
                         </Col>
-                        <Col xs={12} sm={12} md={7} className="py-2">
+                        <Col xs={12} sm={12} md={4} className="py-2">
                             <Ratio aspectRatio="4x3">
-                                <iframe
-                                    src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=1&showNav=0&showDate=1&showCalendars=1&showTabs=0&title&src=NDIwNjI4ZDNiMzU4NDdmZjAwOWI2NmMyMGMxYzIyZDhiODgwY2Q3ZTcwODUxMDFjMGEwNDBjMjU3YjMwYzY3YkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA"
-                                    width="800" height="600">
-                                </iframe>
+                            <iframe className="google-calendar" src="https://calendar.google.com/calendar/embed?height=300&wkst=2&ctz=America%2
+                            FLos_Angeles&bgcolor=%23ffffff&mode=MONTH&title=AME%20GBM%20and%20Events%20Schedule&src=NDIwNjI4ZDNiMzU4NDdmZjAwOWI2NmMyMGMxYzIyZDhiODgwY2Q3ZTcwODUxMDFjMGEwNDBjMjU3YjMwYzY3YkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA" 
+                            width="400" height="300" frameborder="0" scrolling="no"></iframe>
                             </Ratio>
                         </Col>
                     </Row>
