@@ -46,12 +46,10 @@ export default function Home() {
                         </Col>
                         <Col xs={12} sm={12} md={6} className="py-2">
                             <p className="title-size title-font-condensed text-uppercase border-bottom">Who are we?</p>
-                            <p className="mb-4">We&apos;re the anime club at UCSD :D We might seem mysterious at first,
-                                but stop by club
-                                sometime to
-                                really get to know us. Don&apos;t be intimidated if you can&apos;t show up to the first
-                                couple of
-                                meetings or events. Feel free to hang out with us at any of the things that we host
+                            <p className="home-text">We&apos;re the anime club at UCSD :D </p>
+                            <p className="home-text">We might seem mysterious at first, but stop by club
+                                sometime to really get to know us. Don&apos;t be intimidated if you can&apos;t show up to the first
+                                couple of meetings or events. Feel free to hang out with us at any of the things that we host
                                 throughout the school year anytime.</p>
                             <div className="d-grid gap-2">
                                 <Link href="/history" passHref><Button variant="primary"
