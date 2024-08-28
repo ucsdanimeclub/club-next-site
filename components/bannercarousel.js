@@ -7,7 +7,7 @@ function CarouselBackground({image}) {
     const myBackgroundStyle = {
         backgroundPosition: `center`,
         backgroundSize: `cover`,
-        height: `850px`,
+        height: `950px`,
         backgroundImage: `linear-gradient(to top, rgb(0, 0, 0) 0%, rgba(255, 255, 255, 0) 40%), url('${router.basePath}/${image}')`
     }
     return (
