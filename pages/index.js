@@ -33,7 +33,7 @@ export default function Home() {
                         <Col xs={12} sm={12} md={6} className="py-2">
                             <Ratio aspectRatio="4x3">
                             <iframe width="463" height="823" src="https://www.youtube.com/embed/yn7MMjtPiQ0?rel=0&autoplay=1" title="AME tries Gojo’s sauce 🤞 #shorts" 
-                            allow="autoplay; allowfullscreen" allowfullscreen muted></iframe>
+                            allow="autoplay; allowfullscreen" allowFullScreen muted></iframe>
                             </Ratio>
                         </Col>
                     </Row>

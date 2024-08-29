@@ -54,14 +54,13 @@ export default function Officers() {
             <Container className="mb-4">
                 <div className="border-bottom border-light mb-4">
                     <div className="d-inline-flex flex-wrap justify-content-center align-items-start mb-4">
-                        <FadeInWhenVisible>
+
                         {officersSorted.map((officer, index) => (
                             <Link key={index} href={`#${encodeOfficer(officer["name"])}`} passHref>
                                 <MyImage src={officer["image"]}
                                          className="col-6 col-sm-4 col-md-3 col-lg-2 p-2 image-pointer"/>
                             </Link>
                         ))}
-                        </FadeInWhenVisible>
                     </div>
                 </div>
                 <div className="d-grid gap-5">
