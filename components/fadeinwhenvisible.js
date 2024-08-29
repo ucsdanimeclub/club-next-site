@@ -6,6 +6,7 @@ export default function FadeInWhenVisible({ children }) {
       initial="hidden"
       whileInView="visible"
       transition={{ duration: 0.3 }}
+      viewport={{ once: true }}
       variants={{
         visible: { opacity: 1, scale: 1 },
         hidden: { opacity: 0, scale: 0 }

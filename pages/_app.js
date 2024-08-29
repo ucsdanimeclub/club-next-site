@@ -5,6 +5,7 @@ import '../styles/globals.css'
 import '../styles/theme.scss'
 import ReactGA from "react-ga4";
 
+// used for google analytics
 ReactGA.initialize("G-MJG19RWQDF");
 
 

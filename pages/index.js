@@ -26,12 +26,8 @@ export default function Home() {
                                 
                             
                             <div className="d-grid">
-                                <motion.button
-                                    whileHover={{ scale: 1.05}}
-                                    whileTap={{ scale: 0.9 }}
-                                    >
-                                        <a href="https://www.facebook.com/groups/ucsdanimeclub">View
-                                    our upcoming events</a></motion.button>
+                            <Button variant="primary" size="lg"
+                                        href="https://www.facebook.com/groups/ucsdanimeclub">View our upcoming events</Button>
                             </div>
                             </FadeInWhenVisible>
                         </Col>
