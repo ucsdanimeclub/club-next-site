@@ -1,8 +1,10 @@
 import BannerCarousel from "../components/bannercarousel"
 import MyImage from "../components/myimage"
 import Banners from "../data/banners.json"
-import {Row, Col, Container, Ratio, Button} from "react-bootstrap"
+import {Row, Col, Container, Ratio, Button, Fade} from "react-bootstrap"
 import Link from "next/link"
+import { motion, animate } from "framer-motion"
+import FadeInWhenVisible from "../components/fadeinwhenvisible"
 
 
 export default function Home() {
@@ -12,19 +14,22 @@ export default function Home() {
             <Container className="mb-4">
                 <div className="border-bottom border-light mb-4">
                     <Row className="align-items-center mb-4">
-                        <Col xs={12} sm={12} md={6} className="py-2">
+                        <Col xs={12} sm={12} md={8} className="py-2">
+                        <FadeInWhenVisible>
                             <p className="title-size title-font-condensed text-uppercase border-bottom text-center">Future
                                 Events!</p>
-                            <p className="mb-2 text-center">We hold GBMs every Monday evening and other events throughout the
+                                <p className="mb-2 text-center">We hold GBMs every Monday evening and other events throughout the
                                 quarter. Although we are
                                 currently preparing for Animefest, we still have plenty of other events happening this
                                 quarter. Check our Discord or Facebook group for details!</p>
                                 <p className="mp-4 text-center">Check our Discord or Facebook group for details!</p>
+                                
+                            
                             <div className="d-grid">
-                                <Button variant="primary" size="lg"
-                                        href="https://www.facebook.com/groups/ucsdanimeclub">View
-                                    our upcoming events</Button>
+                            <Button variant="primary" size="lg"
+                                        href="https://www.facebook.com/groups/ucsdanimeclub">View our upcoming events</Button>
                             </div>
+                            </FadeInWhenVisible>
                         </Col>
                         <Col xs={12} sm={12} md={6} className="py-2">
                             <Ratio aspectRatio="4x3">
@@ -43,6 +48,7 @@ export default function Home() {
                             </Ratio>
                         </Col>
                         <Col xs={12} sm={12} md={6} className="py-2">
+                            <FadeInWhenVisible>
                             <p className="title-size title-font-condensed text-uppercase border-bottom">Who are we?</p>
                             <p className="mb-2 text-left">We&apos;re the anime club at UCSD :D </p>
                             <p className="mp-2 text-left">We might seem mysterious at first, but stop by club
@@ -53,9 +59,11 @@ export default function Home() {
                                 <Link href="/history" passHref><Button variant="primary" size="lg">History</Button></Link>
                                 <Link href="/officers" passHref><Button variant="primary" size="lg">Current Officers</Button></Link>
                             </div>
+                            </FadeInWhenVisible>
                         </Col>
                     </Row>
                 </div>
+                <FadeInWhenVisible>
                 <div>
                     <Row className="align-items-center">
                         <Col xs={12} sm={12} md={9} className="py-2">
@@ -72,6 +80,7 @@ export default function Home() {
                         </Col>
                     </Row>
                 </div>
+                </FadeInWhenVisible>
             </Container>
         </>
     )
