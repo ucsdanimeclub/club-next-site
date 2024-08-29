@@ -3,6 +3,7 @@ import PageHeader from "../components/pageheader"
 import MyImage from "../components/myimage"
 import OfficerData from "../data/officers.json"
 import Link from "next/link"
+import FadeInWhenVisible from "../components/fadeinwhenvisible"
 
 
 function encodeOfficer(name) {
@@ -53,18 +54,24 @@ export default function Officers() {
             <Container className="mb-4">
                 <div className="border-bottom border-light mb-4">
                     <div className="d-inline-flex flex-wrap justify-content-center align-items-start mb-4">
+                        <FadeInWhenVisible>
                         {officersSorted.map((officer, index) => (
                             <Link key={index} href={`#${encodeOfficer(officer["name"])}`} passHref>
                                 <MyImage src={officer["image"]}
                                          className="col-6 col-sm-4 col-md-3 col-lg-2 p-2 image-pointer"/>
                             </Link>
                         ))}
+                        </FadeInWhenVisible>
                     </div>
                 </div>
                 <div className="d-grid gap-5">
+                    
                     {officersSorted.map((officer, index) => (
+                        <FadeInWhenVisible>
                         <OfficerDisplay officer={officer} key={index}/>
+                        </FadeInWhenVisible>
                     ))}
+                    
                 </div>
             </Container>
         </>
