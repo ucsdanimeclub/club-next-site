@@ -66,9 +66,9 @@ export default function Officers() {
                 <div className="d-grid gap-5">
                     
                     {officersSorted.map((officer, index) => (
-                        <FadeInWhenVisible>
+                        //<FadeInWhenVisible>
                         <OfficerDisplay officer={officer} key={index}/>
-                        </FadeInWhenVisible>
+                        //</FadeInWhenVisible>
                     ))}
                     
                 </div>
