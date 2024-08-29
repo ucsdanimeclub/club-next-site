@@ -12,7 +12,7 @@ export default function Home() {
             <Container className="mb-4">
                 <div className="border-bottom border-light mb-4">
                     <Row className="align-items-center mb-4">
-                        <Col xs={12} sm={12} md={8} className="py-2">
+                        <Col xs={12} sm={12} md={6} className="py-2">
                             <p className="title-size title-font-condensed text-uppercase border-bottom text-center">Future
                                 Events!</p>
                             <p className="mb-2 text-center">We hold GBMs every Monday evening and other events throughout the
@@ -26,11 +26,9 @@ export default function Home() {
                                     our upcoming events</Button>
                             </div>
                         </Col>
-                        <Col xs={12} sm={12} md={4} className="py-2">
+                        <Col xs={12} sm={12} md={6} className="py-2">
                             <Ratio aspectRatio="4x3">
-                            <iframe className="google-calendar" src="https://calendar.google.com/calendar/embed?height=300&wkst=2&ctz=America%2
-                            FLos_Angeles&bgcolor=%23ffffff&mode=MONTH&title=AME%20GBM%20and%20Events%20Schedule&src=NDIwNjI4ZDNiMzU4NDdmZjAwOWI2NmMyMGMxYzIyZDhiODgwY2Q3ZTcwODUxMDFjMGEwNDBjMjU3YjMwYzY3YkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA" 
-                            width="400" height="300" frameBorder="0" scrolling="no"></iframe>
+                            <iframe width="463" height="823" src="https://www.youtube.com/embed/yn7MMjtPiQ0" title="AME tries Gojo’s sauce 🤞 #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                             </Ratio>
                         </Col>
                     </Row>
