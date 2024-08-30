@@ -6,7 +6,39 @@ import React, { useEffect, useState } from "react";
 import {useRouter} from "next/dist/client/router"
 import MyImage from "../components/myimage"
 
+import Button from 'react-bootstrap/Button';
+import Card from 'react-bootstrap/Card';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+const BasicExample = () => {
+  const cardInfo = [
+    { image: "https://www.maxis.com.my/content/dam/mxs/images/rebrand/about-maxis/newsroom/2022/july/maxis-logo.png", title: "1999", text: "text 1"},
+    { image: "https://www.maxis.com.my/content/dam/mxs/images/rebrand/about-maxis/newsroom/2022/july/maxis-logo.png", title: "2016", text: "text 2"},
+    { image: "https://www.maxis.com.my/content/dam/mxs/images/rebrand/about-maxis/newsroom/2022/july/maxis-logo.png", title: "2020", text: "text 3"},
+    { image: "https://www.maxis.com.my/content/dam/mxs/images/rebrand/about-maxis/newsroom/2022/july/maxis-logo.png", title: "2024", text: "text 4"}
+  ];
+
+  const renderCard = (card, index) => {
+    return (
+      <Card style={{ width: '18rem' }} key = {index} className="box">
+      <Card.Img variant="top" src ={card.image} />
+      <Card.Body>
+        <Card.Title>{card.title}</Card.Title>
+        <Card.Text>{card.text}</Card.Text>
+      </Card.Body>
+    </Card>
+    );
+  };
+  return <div className="grid">
+    {cardInfo.map(renderCard)}
+  </div>;
+}
+
+export default BasicExample;
+
+
+/*
 function CardBackground({image}) {
     const router = useRouter()
     const myBackgroundStyle = {
@@ -129,7 +161,7 @@ const History = ({banners, ...otherProps}) => {
     };
     
     export default History;
-
+*/
 /*
 export default function History() {
     return (
