@@ -11,14 +11,49 @@ import Card from 'react-bootstrap/Card';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const BasicExample = () => {
+const History = () => {
   const cardInfo = [
-    { image: "https://www.maxis.com.my/content/dam/mxs/images/rebrand/about-maxis/newsroom/2022/july/maxis-logo.png", title: "1999", text: "text 1"},
-    { image: "https://www.maxis.com.my/content/dam/mxs/images/rebrand/about-maxis/newsroom/2022/july/maxis-logo.png", title: "2016", text: "text 2"},
-    { image: "https://www.maxis.com.my/content/dam/mxs/images/rebrand/about-maxis/newsroom/2022/july/maxis-logo.png", title: "2020", text: "text 3"},
-    { image: "https://www.maxis.com.my/content/dam/mxs/images/rebrand/about-maxis/newsroom/2022/july/maxis-logo.png", title: "2024", text: "text 4"}
+    { image: "images/gallery/1999_logo_upscale.jpg", title: "1999", text: "Founding of AME"},
+    { image: "images/gallery/2015_sungodchibi.png", title: "2014-15", text: "text 2"},
+    { image: "images/gallery/2018_sungodref.jpg", title: "2017-18", text: "text 3"},
+    { image: "images/gallery/2020_afconcept.png", title: "2020", text: "text 4"},
+	{ image: "images/gallery/af23_sungod.png", title: "2022-3", text: "text 5"},
+	{ image: "images/gallery/aggie_su23.png", title: "2023-4", text: "text 6"}
   ];
 
+  return <section className="block">
+	<PageHeader src="images/header_images/history_banner.jpg" className="mb-4">History</PageHeader>
+    <Container fluid>
+      <Row>
+	  {
+	  	cardInfo.map(renderCard => {
+			return (
+				<Col sm={4} key={renderCard.title}>
+			<div className="holder">
+			<Card>
+				<Card.Img variant="top" src={renderCard.image} />
+				<Card.Body>
+					<Card.Title>{renderCard.title}</Card.Title>
+					<Card.Text>
+					{renderCard.text}
+					</Card.Text>
+				</Card.Body>
+				</Card>
+			</div>
+        </Col>
+			)
+	  		})
+		}
+        
+      </Row>
+    </Container>
+  </section>;
+}
+
+export default History;
+
+
+/*
   const renderCard = (card, index) => {
     return (
       <Card style={{ width: '18rem' }} key = {index} className="box">
@@ -30,13 +65,7 @@ const BasicExample = () => {
     </Card>
     );
   };
-  return <div className="grid">
-    {cardInfo.map(renderCard)}
-  </div>;
-}
-
-export default BasicExample;
-
+  */
 
 /*
 function CardBackground({image}) {
