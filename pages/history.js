@@ -46,33 +46,6 @@ export default function History() {
   )
 }
 	  
-
-/*
-  const renderCard = (card, index) => {
-    return (
-      <Card style={{ width: '18rem' }} key = {index} className="box">
-      <Card.Img variant="top" src ={card.image} />
-      <Card.Body>
-        <Card.Title>{card.title}</Card.Title>
-        <Card.Text>{card.text}</Card.Text>
-      </Card.Body>
-    </Card>
-    );
-  };
-  */
-
-/*
-function CardBackground({image}) {
-    const router = useRouter()
-    const myBackgroundStyle = {
-        backgroundPosition: `center`,
-        backgroundSize: `cover`,
-        backgroundImage: `url('${router.basePath}/${image}')`
-    }
-    return (
-        <div className="w-100" style={myBackgroundStyle}></div>
-    )
-}
 /*
 export default function History() {
     return (
