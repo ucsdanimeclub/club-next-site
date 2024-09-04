@@ -1,13 +1,7 @@
 import PageHeader from "../components/pageheader"
 import {Row, Col, Container} from "react-bootstrap"
-import Link from "next/link"
-import { motion, AnimatePresence } from 'framer-motion';
-import React, { useEffect, useState } from "react";
-import {useRouter} from "next/dist/client/router"
-import MyImage from "../components/myimage"
-import Button from 'react-bootstrap/Button';
+import React from "react";
 import Card from 'react-bootstrap/Card';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 import HistoryData from "../data/history.json"
 

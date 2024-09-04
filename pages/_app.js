@@ -18,7 +18,6 @@ export default function MyApp({Component, pageProps}) {
                 <meta name="description" content="Anime Club at UC San Diego"/>
                 <link rel="icon" href={`${router.basePath}/favicon.ico`}/>
                 <link rel="stylesheet" href={`${router.basePath}/fonts.css`}/>
-
             </Head>
 
             <Layout>
