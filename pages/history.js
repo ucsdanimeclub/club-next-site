@@ -1,8 +1,46 @@
 import PageHeader from "../components/pageheader"
-import {Container} from "react-bootstrap"
-import Link from "next/link"
+import {Row, Col, Container} from "react-bootstrap"
+import React from "react";
+import Card from 'react-bootstrap/Card';
 
+import HistoryData from "../data/history.json"
 
+function HistoryDisplay ({history}) {
+  return (
+    <Col sm={4} key={history["year"]}>
+			<div className="holder">
+        <Card>
+          <Card.Img className="card--img" variant="top" src={history["image"]} />
+          <Card.Body>
+          <Card.Title>{history["year"]}</Card.Title>
+            <Card.Text>
+              {history["text"]}
+            </Card.Text>
+            </Card.Body>
+          </Card>
+        </div>
+      </Col>
+  )
+}
+
+export default function History() {
+  const historySorted = HistoryData["history"].sort((o1, o2) => o1["year"].localeCompare(o2["year"]));
+
+  return (
+    <section className="block"> 
+    <PageHeader src="images/header_images/history_banner.jpg" className="mb-4">History</PageHeader>
+        <Container fluid className="history--container">
+          <Row>
+            {historySorted.map((history, index) => (
+              <HistoryDisplay history={history} key={index}/>
+            ))}
+          </Row>
+        </Container>
+    </section>
+  )
+}
+	  
+/*
 export default function History() {
     return (
         <div className="min-vh-100">
@@ -28,4 +66,4 @@ export default function History() {
             </Container>
         </div>
     )
-}
+} */

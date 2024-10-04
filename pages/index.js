@@ -32,8 +32,8 @@ export default function Home() {
                         </Col>
                         <Col xs={12} sm={12} md={6} className="py-2">
                             <Ratio aspectRatio="4x3">
-                            <iframe width="463" height="823" src="https://www.youtube.com/embed/yn7MMjtPiQ0?rel=0&autoplay=1" title="AME tries Gojo’s sauce 🤞 #shorts" 
-                            allow="autoplay; allowfullscreen" allowFullScreen muted></iframe>
+                            <iframe width="463" height="823" src="https://www.youtube.com/embed/yn7MMjtPiQ0?rel=0" title="AME tries Gojo’s sauce 🤞 #shorts" 
+                            allow="allowfullscreen" allowFullScreen muted></iframe>
                             </Ratio>
                         </Col>
                     </Row>
@@ -55,7 +55,7 @@ export default function Home() {
                                 quarter. Although we are
                                 currently preparing for Animefest, we still have plenty of other events happening this
                                 quarter.</p>
-                                <p className="mp-4 text-left">Check our Discord or Facebook group for details!</p>
+                                <p className="mp-4 text-left">Check out our Discord for details!</p>
                             <div className="d-grid gap-2">
                                 <Link href="/history" passHref><Button variant="primary" size="lg">History</Button></Link>
                                 <Link href="/officers" passHref><Button variant="primary" size="lg">Current Officers</Button></Link>
@@ -67,16 +67,19 @@ export default function Home() {
                 <FadeInWhenVisible>
                 <div>
                     <Row className="align-items-center">
-                        <Col xs={12} sm={12} md={9} className="py-2">
+                        <Col xs={12} sm={12} md={6} className="py-2">
                             <p className="title-size title-font-condensed text-uppercase border-bottom">What Do We
                                 Do?</p>
-                            <p>We host anime showings and other activities every Monday evening. We also hang out and
-                                organize weekend socials like karaoke, club dinner, beach day etc. Our largest event is our
-                                on-campus
-                                convention, <a href="https://animefest.ucsd.moe">Animefest</a>, which takes place every Winter Quarter, around February.</p>
+                            <p>We host anime showings and other activities <strong style={{color: "red"}}>every Monday evening</strong>. We also hang out and
+                                    organize weekend socials like karaoke, club dinner, beach day etc. </p>
+                                
+                            <p>Our largest event is our on-campus convention, <a href="https://animefest.ucsd.moe">Animefest</a>, 
+                                    which takes place every Winter Quarter, around February.</p>
+
+                            <p>Check out our calendar to learn more about our events this quarter!</p>
                         </Col>
-                        <Col xs={12} sm={12} md={3} className="py-2">
-                            <MyImage src="images/triton_sitting.png" alt="Triton sitting"
+                        <Col xs={12} sm={12} md={6} className="py-2">
+                            <MyImage src="images/ame_fall_24_event_calendar.png" alt="Triton sitting"
                                      className="w-100"></MyImage>
                         </Col>
                     </Row>
