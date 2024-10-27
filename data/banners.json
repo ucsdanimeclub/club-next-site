@@ -11,9 +11,9 @@
       "image": "images/carousel_images/af24_banner.png"
     },
     {
-      "title": "Animefest 2025",
-      "description": "February 2025! Details will be updated on our new website!",
-      "image": "images/carousel_images/blank_banner.jpg",
+      "title": "",
+      "description": "",
+      "image": "images/carousel_images/af25_banner.png",
       "link": {
         "name": "Click here to go to the website!",
         "address": "https://animefest.ucsd.moe/"
