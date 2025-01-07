@@ -79,7 +79,7 @@ export default function Home() {
                             <p>Check out our calendar to learn more about our events this quarter!</p>
                         </Col>
                         <Col xs={12} sm={12} md={6} className="py-2">
-                            <MyImage src="images/winter_25_event_calendar.png" alt="Triton sitting"
+                            <MyImage src="images/winter_25_event_calendar.png" alt="quarterly calendar"
                                      className="w-100"></MyImage>
                         </Col>
                     </Row>
