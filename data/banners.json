@@ -18,6 +18,11 @@
         "name": "Click here to go to the website!",
         "address": "https://animefest.ucsd.moe/"
       }
+    },
+    {
+      "title": "Animefest 2028",
+      "description": "We hope you enjoyed Animefest 2024! Look out for information on our next Animefest!",
+      "image": "images/carousel_images/af24_banner.png"
     }
   ]
 }
