@@ -292,6 +292,24 @@
           "handle": "simpleminded_person"
         }
       ]
+    },
+    {
+      "image": "images/officer_images/Ryan.png",
+      "name": "Ryan Estanislao",
+      "description": [
+        "Hello! I’m Ryan, a first-year Computer Science major in Eighth College."," The anime I watch is skewed pretty heavily toward isekai and fantasy shows, my favorites being Seirei Gensouki, Machikado Mazoku, and MagiRevo. "," My favorite games, both online and on the board, tend to be strategy related, such as EU4 and Diplomacy. Other than that, I enjoy collecting figures and playing volleyball. "," Hope you enjoy your time here and feel free to recommend anime to me!"
+      ],
+      "contact": [
+        {
+          "title": "Email",
+          "handle": "estanislao@ucsd.edu",
+          "url": "mailto:estanislao@ucsd.edu"
+        },
+        {
+          "title": "Discord",
+          "handle": "turtlelions"
+        }
+      ]
     }
   ]
 }
