@@ -10,6 +10,149 @@
         "image": "images/gallery/aggie_fa23.png",
         "thumbnail": "images/gallery/thumbnail/aggie_fa23_thumbnail.png",
         "description": "Fall 2023 aggie.io"
+      },
+      {
+        "image": "images/gallery/AggieSP24.jpg",
+        "thumbnail": "images/gallery/thumbnail/AggieSP24_thumbnail.png",
+        "description": "Spring 2024 aggie.io"
+      },
+      {
+        "image": "images/gallery/AF24_Hina.png",
+        "thumbnail": "images/gallery/thumbnail/AF24_Hina_thumbnail.png",
+        "description": "AnimeFest 2024 Hina Mascot",
+        "credits": [
+          {
+            "creator": "ChibiBrain",
+            "url": "https://www.instagram.com/chibibrain/"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AF24_Triton.png",
+        "thumbnail": "images/gallery/thumbnail/AF24_Triton_thumbnail.png",
+        "description": "AnimeFest 2024 Kai Mascot",
+        "credits": [
+          {
+            "creator": "ChibiBrain",
+            "url": "https://www.instagram.com/chibibrain/"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/Hina&Kai_chibis.png",
+        "thumbnail": "images/gallery/thumbnail/Hina&Kai_chibis_thumbnail.png",
+        "description": "AnimeFest 2024 Hina and Kai Chibi",
+        "credits": [
+          {
+            "creator": "Tigerfleur(X)",
+            "url": "https://x.com/Tigerfleur1"
+          },
+          {
+            "creator": "Tigerfleur(Instagram)",
+            "url": "https://www.instagram.com/tiger_fleur/?hl=en"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AniFest 2024 Hina Print.png",
+        "thumbnail": "images/gallery/thumbnail/AniFest 2024 Hina Print_thumbnail.png",
+        "description": "AnimeFest 2024 Hina Print",
+        "credits": [
+          {
+            "creator": "Kiraakki"
+          },
+          {
+            "creator": "ChibiBrain",
+            "url": "https://www.instagram.com/chibibrain/"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AniFest 2024 Kai Print.png",
+        "thumbnail": "images/gallery/thumbnail/AniFest 2024 Kai Print_thumbnail.png",
+        "description": "AnimeFest 2024 Kai Print",
+        "credits": [
+          {
+            "creator": "Kiraakki"
+          },
+          {
+            "creator": "ChibiBrain",
+            "url": "https://www.instagram.com/chibibrain/"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AniFest 2024 Concert Celebration Print.png",
+        "thumbnail": "images/gallery/thumbnail/AniFest 2024 Concert Celebration Print_thumbnail.png",
+        "description": "AnimeFest 2024 Concert Print"
+      },
+      {
+        "image": "images/gallery/Sp24 Maid Cafe Event Print.tiff",
+        "thumbnail": "images/gallery/thumbnail/Sp24 Maid Cafe Event Print_thumbnail.png",
+        "description": "Maid Cafe Print",
+        "credits": [
+          {
+            "creator": "Ruiyune",
+            "url": "https://twitter.com/ruiyune"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/cafehina.png",
+        "thumbnail": "images/gallery/thumbnail/cafehina_thumbnail.png",
+        "description": "Maid Hina Concept",
+        "credits": [
+          {
+            "creator": "Ruiyune",
+            "url": "https://twitter.com/ruiyune"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AF24_light.png",
+        "thumbnail": "images/gallery/thumbnail/AF24_light_thumbnail.png",
+        "description": "AnimeFest 2024 Logo Light",
+        "credits": [
+          {
+            "creator": "Tigerfleur(X)",
+            "url": "https://x.com/Tigerfleur1"
+          },
+          {
+            "creator": "Tigerfleur(Instagram)",
+            "url": "https://www.instagram.com/tiger_fleur/?hl=en"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AF24_dark.png",
+        "thumbnail": "images/gallery/thumbnail/AF24_dark_thumbnail.png",
+        "description": "AnimeFest 2024 Logo Dark",
+        "credits": [
+          {
+            "creator": "Tigerfleur(X)",
+            "url": "https://x.com/Tigerfleur1"
+          },
+          {
+            "creator": "Tigerfleur(Instagram)",
+            "url": "https://www.instagram.com/tiger_fleur/?hl=en"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/Hina Acrylic Stand SP24.png",
+        "thumbnail": "images/gallery/thumbnail/Hina Acrylic Stand SP24_thumbnail.png",
+        "description": "Hina Acrylic Stand",
+        "credits": [
+          {
+            "creator": "Ruiyune",
+            "url": "https://twitter.com/ruiyune"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/SP24 Get Involved Listing(4).png",
+        "thumbnail": "images/gallery/thumbnail/SP24 Get Involved Listing(4)_thumbnail.png",
+        "description": "Get Involved 2024 Flyer"
       }
     ],
     "2022-2023": [

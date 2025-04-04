@@ -3,7 +3,7 @@ import glob, os
 
 size = 500, 500
 
-project_files = glob.glob('*.png') + glob.glob('*.jpg') + glob.glob('*.jpeg')
+project_files = glob.glob('*.png') + glob.glob('*.jpg') + glob.glob('*.jpeg') + glob.glob('*.tiff')
 
 for infile in project_files:
     file, ext = os.path.splitext(infile)
