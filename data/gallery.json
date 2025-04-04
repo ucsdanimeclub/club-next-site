@@ -1,5 +1,131 @@
 {
   "gallery": {
+    "2024-2025": [
+      {
+        "image": "images/gallery/UC_InterArtCollab_2024.png",
+        "thumbnail": "images/gallery/thumbnail/UC_InterArtCollab_2024_thumbnail.png",
+        "description": "UC Interconnect Art",
+        "credits": [
+          {
+            "creator": "Ruiyune",
+            "url": "https://twitter.com/ruiyune"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/SU 2024.png",
+        "thumbnail": "images/gallery/thumbnail/SU 2024_thumbnail.png",
+        "description": "Summer Aggie 2024"
+      },
+      {
+        "image": "images/gallery/AF25 Hina Chibi.png",
+        "thumbnail": "images/gallery/thumbnail/AF25 Hina Chibi_thumbnail.png",
+        "description": "AnimeFest 2025 Hina Chibi",
+        "credits": [
+          {
+            "creator": "Kiraakki",
+            "url": "https://x.com/Kiraakki_Art"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AF25 Hina_Action Chibi.png",
+        "thumbnail": "images/gallery/thumbnail/AF25 Hina_Action Chibi_thumbnail.png",
+        "description": "AnimeFest 2025 Hina Action Chibi",
+        "credits": [
+          {
+            "creator": "Kiraakki",
+            "url": "https://x.com/Kiraakki_Art"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AF25 Kai Chibi.png",
+        "thumbnail": "images/gallery/thumbnail/AF25 Kai Chibi_thumbnail.png",
+        "description": "AnimeFest 2025 Kai Chibi",
+        "credits": [
+          {
+            "creator": "Kiraakki",
+            "url": "https://x.com/Kiraakki_Art"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AF25 Kai_Action Chibi.png",
+        "thumbnail": "images/gallery/thumbnail/AF25 Kai_Action Chibi_thumbnail.png",
+        "description": "AnimeFest 2025 Kai Action Chibi",
+        "credits": [
+          {
+            "creator": "Kiraakki",
+            "url": "https://x.com/Kiraakki_Art"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AF25_Hina_Plain.png",
+        "thumbnail": "images/gallery/thumbnail/AF25_Hina_Plain_thumbnail.png",
+        "description": "AnimeFest 2025 Hina Full Pose",
+        "credits": [
+          {
+            "creator": "eunydice/Chicken",
+            "url": "https://x.com/eunydice"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AF25_Hina.png",
+        "thumbnail": "images/gallery/thumbnail/AF25_Hina_thumbnail.png",
+        "description": "AnimeFest 2025 Hina Full Pose w/ Fire",
+        "credits": [
+          {
+            "creator": "eunydice/Chicken",
+            "url": "https://x.com/eunydice"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AF25_Kai_Plain.png",
+        "thumbnail": "images/gallery/thumbnail/AF25_Kai_Plain_thumbnail.png",
+        "description": "AnimeFest 2025 Kai Full Pose",
+        "credits": [
+          {
+            "creator": "eunydice/Chicken",
+            "url": "https://x.com/eunydice"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AF25_Kai.png",
+        "thumbnail": "images/gallery/thumbnail/AF25_Kai_thumbnail.png",
+        "description": "AnimeFest 2025 Kai Full Pose w/ Water",
+        "credits": [
+          {
+            "creator": "eunydice/Chicken",
+            "url": "https://x.com/eunydice"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AF25 Logo Transparent.png",
+        "thumbnail": "images/gallery/thumbnail/AF25 Logo Transparent_thumbnail.png",
+        "description": "AnimeFest 2025 Logo Transparent Dark",
+        "credits": [
+          {
+            "creator": "ren/Glim"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/AF25 Logo BG.jpg",
+        "thumbnail": "images/gallery/thumbnail/AF25 Logo BG_thumbnail.png",
+        "description": "AnimeFest 2025 Logo Transparent Light",
+        "credits": [
+          {
+            "creator": "ren/Glim"
+          }
+        ]
+      }
+    ],
     "2023-2024": [
       {
         "image": "images/gallery/aggie_su23.png",
@@ -44,11 +170,7 @@
         "description": "AnimeFest 2024 Hina and Kai Chibi",
         "credits": [
           {
-            "creator": "Tigerfleur(X)",
-            "url": "https://x.com/Tigerfleur1"
-          },
-          {
-            "creator": "Tigerfleur(Instagram)",
+            "creator": "Tigerfleur",
             "url": "https://www.instagram.com/tiger_fleur/?hl=en"
           }
         ]
@@ -114,11 +236,7 @@
         "description": "AnimeFest 2024 Logo Light",
         "credits": [
           {
-            "creator": "Tigerfleur(X)",
-            "url": "https://x.com/Tigerfleur1"
-          },
-          {
-            "creator": "Tigerfleur(Instagram)",
+            "creator": "Tigerfleur",
             "url": "https://www.instagram.com/tiger_fleur/?hl=en"
           }
         ]
@@ -129,11 +247,7 @@
         "description": "AnimeFest 2024 Logo Dark",
         "credits": [
           {
-            "creator": "Tigerfleur(X)",
-            "url": "https://x.com/Tigerfleur1"
-          },
-          {
-            "creator": "Tigerfleur(Instagram)",
+            "creator": "Tigerfleur",
             "url": "https://www.instagram.com/tiger_fleur/?hl=en"
           }
         ]
