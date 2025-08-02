@@ -19,24 +19,6 @@
       ]
     },
     {
-      "image": "images/officer_images/xenoleaf.png",
-      "name": "Justus Vang",
-      "description": [
-        "Yahallo! I’m Justus, currently a fourth year microbio major at 7th College! ","I watch anime on occasion, my favorite being Iroduku: The World in Colors. I do some gaming as well, mostly Genshin and various other gachas. Outside of that, I enjoy cooking, writing music, and swimming. ","With that out of the way, enjoy your stay in AME!"
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "javang@ucsd.edu",
-          "url": "mailto:javang@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "XenoLeaf"
-        }
-      ]
-    },
-    {
       "image": "images/officer_images/kishen2_cropped.png",
       "name": "Kishen Thevandran",
       "description": [
@@ -51,83 +33,6 @@
         {
           "title": "Discord",
           "handle": "kishenrex"
-        }
-      ]
-    },
-    {
-      "image": "images/officer_images/brandon_2024.jpg",
-      "name": "Brandon Tse",
-      "description": [
-        "Heyo! My name's Brandon and I'm a fourth year Human Biology major at ERC."," I don't watch as much anime as the other people on the board, but I still have my favorites list (currently Kimi no Na wa/Tenki no Ko/Suzume no Tojimari, 86, A Silent Voice, and Bocchi the Rock)."," The thing is, I'm more into collecting anime vinyl records, whether it be OPs/EDs or full OSTs (and I'm always hyped to share my collection)! I also play my fair share of gacha games since.... I have nothing better to do... Currently on the list is Genshin Impact, Arknights, and Honkai Star Rail, so shoot me a message if you ever want to add me!"
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "btse@ucsd.edu",
-          "url": "mailto:btse@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "mintwaffles"
-        },
-        {
-          "title": "MyAnimeList",
-          "handle": "MintWaffles",
-          "url": "https://myanimelist.net/profile/MintWaffles"
-        }
-      ]
-    },
-    {
-      "image": "images/officer_images/tigerfleur.png",
-      "name": "Tiffany Stanford",
-      "description": [
-        "Hello! I’m Tiffany, a General Bio major at ERC."," I’m a fan of good food related shows or slice of life series with some of my favorite manga being Dungeon Meshi, Blue Period, and Wotakoi."," I also enjoy a couple of games such as Genshin Impact (Itto main!!) and Ensemble Stars. Other than that, I love drawing, crocheting, and cooking in my spare time. "," Hope you have a fun time in AME!"
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "tstanford@ucsd.edu",
-          "url": "mailto:tstanford@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "tigerfleur"
-        }
-      ]
-    },
-    {
-      "image": "images/officer_images/ren_profile.jpg",
-      "name": "Ren Singleton",
-      "description": [
-        "Hello! My name is Ren and I’m a fourth year ICAM major at Eleanor Roosevelt College!"," I’m a transfer student from an art school and enjoy doing art and design projects in my free time. I enjoy a variety of different anime, especially anything with horror themes. A few anime I like are Devilman Crybaby, Evangelion, and Made in Abyss!"," I hope you have fun at AME!"
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "msingleton@ucsd.edu",
-          "url": "mailto:msingleton@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "glimshrim"
-        }
-      ]
-    },
-    {
-      "image": "images/officer_images/jen_profile.png",
-      "name": "Jennifer Kim",
-      "description": [
-        "Hello! I’m Jen, a 4th year CogSci major from Sixth."," I enjoy anime and manga taking place in historical(esque) settings like Kusuriya no Hitorigoto, Akatsuki no Yona, and Utawarerumono. "," Other than that, I also indulge in drawing, vocaloid, including tangentially related musical works, other music-heavy franchises like Love Live, BanG Dream, and Project Sekai, Touhou, and lastly, some classic turn based gachas. ","Anyways, I hope you enjoy your time with AME! Would love to hear about your interests/hyperfixations and be awkward together 🙂"
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "eyk005@ucsd.edu",
-          "url": "mailto:eyk005@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "eychicken"
         }
       ]
     },
