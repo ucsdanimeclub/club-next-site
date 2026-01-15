@@ -197,6 +197,24 @@
           "handle": "turtlelions"
         }
       ]
+    },
+    {
+      "image":"images/officer_images/aimee_profile.jpg",
+      "name": "Tiffany Vo",
+      "description":[
+        "Hello! I'm Tiffany"
+      ],
+      "contact": [
+        {
+          "title":"Email",
+          "handle": "tiv004@ucsd.edu",
+          "url":"mailto:tiv004@ucsd.edu"
+        },
+        {
+          "title":"Discord",
+          "handle":"tiffv_"
+        }
+      ]
     }
   ]
 }
