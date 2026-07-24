@@ -1,5 +1,99 @@
 {
   "gallery": {
+    "2025-2026": [
+      {
+        "image": "images/gallery/aggie_sp26.png",
+        "thumbnail": "images/gallery/thumbnail/aggie_sp26_thumbnail.png",
+        "description": "Spring 2026 Aggie.io"
+      },
+      {
+        "image": "images/gallery/aggie_wi26.png",
+        "thumbnail": "images/gallery/thumbnail/aggie_wi26_thumbnail.png",
+        "description": "Winter 2026 Aggie.io"
+      },
+      {
+        "image": "images/gallery/aggie_fa25.png",
+        "thumbnail": "images/gallery/thumbnail/aggie_fa25_thumbnail.png",
+        "description": "Fall 2025 Aggie.io"
+      },
+      {
+        "image": "images/gallery/af26_hina_chibi.png",
+        "thumbnail": "images/gallery/thumbnail/af26_hina_chibi_thumbnail.png",
+        "description": "AnimeFest 2026 Hina Chibi",
+        "credits": [
+          {
+            "creator": "Ruiyune",
+            "url": "https://twitter.com/ruiyune"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/af26_kai_chibi.png",
+        "thumbnail": "images/gallery/thumbnail/af26_kai_chibi_thumbnail.png",
+        "description": "AnimeFest 2026 Kai Chibi",
+        "credits": [
+          {
+            "creator": "Ruiyune",
+            "url": "https://twitter.com/ruiyune"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/af26_hina.png",
+        "thumbnail": "images/gallery/thumbnail/af26_hina_thumbnail.png",
+        "description": "AnimeFest 2026 Hina Full Pose",
+        "credits": [
+          {
+            "creator": "Ruiyune",
+            "url": "https://twitter.com/ruiyune"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/af26_kai.png",
+        "thumbnail": "images/gallery/thumbnail/af26_kai_thumbnail.png",
+        "description": "AnimeFest 2026 Kai Full Pose",
+        "credits": [
+          {
+            "creator": "Ruiyune",
+            "url": "https://twitter.com/ruiyune"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/af26_print.png",
+        "thumbnail": "images/gallery/thumbnail/af26_print_thumbnail.png",
+        "description": "AnimeFest 2026 Print",
+        "credits": [
+          {
+            "creator": "Ruiyune",
+            "url": "https://twitter.com/ruiyune"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/af26_server_pfp.png",
+        "thumbnail": "images/gallery/thumbnail/af26_server_pfp_thumbnail.png",
+        "description": "AnimeFest 2026 Server PFP",
+        "credits": [
+          {
+            "creator": "Kiraakki",
+            "url": "https://x.com/Kiraakki_Art"
+          }
+        ]
+      },
+      {
+        "image": "images/gallery/af26_logo.png",
+        "thumbnail": "images/gallery/thumbnail/af26_logo_thumbnail.png",
+        "description": "AnimeFest 2026 Logo",
+        "credits": [
+          {
+            "creator": "Kiraakki",
+            "url": "https://x.com/Kiraakki_Art"
+          }
+        ]
+      }      
+    ],
     "2024-2025": [
       {
         "image": "images/gallery/UC_InterArtCollab_2024.png",
