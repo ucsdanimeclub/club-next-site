@@ -1,64 +1,10 @@
 {
   "officers": [
     {
-      "image": "images/officer_images/gwen.png",
-      "name": "Gwen Henrich",
-      "description": [
-        "Heya, I'm Gwen! I'm a Biological Anthropology major at Revelle.", "I'm not too picky with anime genres, I'll watch anything if its interesting. That being said, some of my favorites are Blue Period, Mob Psycho 100, and The Case Study of Vanitas. ", "I do also love a fair amount of video games, some of my favorites being The Witcher, Ace Attorney, Hollow Knight, Hades, along with Nintendo franchises and TTRPGs. Outside of that, I also really enjoy gothic and classical literature! ","With that being said, I hope you have a great time at AME!"
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "ghenrich@ucsd.edu",
-          "url": "mailto:ghenrich@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "ghostcashews"
-        }
-      ]
-    },
-    {
-      "image": "images/officer_images/kishen2_cropped.png",
-      "name": "Kishen Thevandran",
-      "description": [
-        "Hello everyone! My name is Kishen. I’m a fourth year CSE major in Warren and I’m an international student from Malaysia.", "My favorite anime has got to be Bleach (Byakuya my goat) and I’ve also recently finished playing Final Fantasy XVI (which was peak 🗣️).", "Feel free to drop me any questions you may have on Discord."
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "kthevandran@ucsd.edu",
-          "url": "mailto:kthevandran@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "kishenrex"
-        }
-      ]
-    },
-    {
-      "image": "images/officer_images/alee_profile4.png",
-      "name": "Alee Ong",
-      "description": [
-        "Hi hi! I’m Alee and I’m a 4th year Applied Mathematics major at Warren."," My favorite genres in anime and manga are comedy, slice of life, and fantasy. I tend to read more manga than watch anime just because I read very quickly. And I also like to play games but I’m into mainly JRPGs. ","The Atelier series is one of my favorites for how they integrate slice of life with fantasy. But I enjoy other series like Persona, Tales, Rune Factory, Danganronpa, and Fire Emblem. "," I also play a lot of gacha games (PAD, Genshin, HSR). I’m into a lot of niche series (like ORV, TCF, RPG-Maker Horror games, Epithet Erased) so if you ever want to talk about them send me a DM in discord. "," I hope you enjoy AME!"
-      ],
-      "contact": [
-        {
-          "title": "Email",
-          "handle": "a1ong@ucsd.edu",
-          "url": "mailto:a1ong@ucsd.edu"
-        },
-        {
-          "title": "Discord",
-          "handle": "kiraakki"
-        }
-      ]
-    },
-    {
       "image": "images/officer_images/aimee_profile.jpg",
       "name": "Aimee Yang",
       "description": [
-        "Hi! I’m Aimee, a third year Cognitive Science major at Muir. "," My personal genre preferences are slice of life anime and horror manga! In my free time I draw and play (puzzle) visual novels, with Ace Attorney being my current favorite."," I’m a big fan of K-Pop girl groups (my favorites are IVE, NewJeans, and Twice, but I’m familiar with basically every popular girl group). ","Feel free to DM me if you want to talk about drawing or anything else!"
+        "Hi! I’m Aimee, a fourth year Cognitive Science major at Muir. "," My personal genre preferences are slice of life anime and horror manga! In my free time I draw and play (puzzle) visual novels, with Ace Attorney being my current favorite."," I’m a big fan of K-Pop girl groups (my favorites are IVE, NewJeans, and Twice, but I’m familiar with basically every popular girl group). ","Feel free to DM me if you want to talk about drawing or anything else!"
       ],
       "contact": [
         {
@@ -76,7 +22,7 @@
       "image": "images/officer_images/jason_profile.png",
       "name": "Jason Trinh",
       "description": [
-        "Yo! I’m Jason and I’m a third year CogSci major at Marshall College! "," I’m pretty open when it comes to anime, it just takes me a while to get to it lol. My top 3 shows would probably be Violet Evergarden, Mushoku Tensei, and Uma Musume. "," I mainly play FPS games and gacha games such as Marvel Rivals and Honkai: Star Rail. Otherwise, my other hobbies include watching YouTube and editing!"
+        "Yo! I’m Jason and I’m a fourth year CogSci major at Marshall College! "," I’m pretty open when it comes to anime, it just takes me a while to get to it lol. My top 3 shows would probably be Violet Evergarden, Mushoku Tensei, and Uma Musume. "," I mainly play FPS games and gacha games such as Marvel Rivals and Honkai: Star Rail. Otherwise, my other hobbies include watching YouTube and editing!"
       ],
       "contact": [
         {
@@ -94,7 +40,7 @@
       "image": "images/officer_images/Vincent.jpg",
       "name": "Vincent Ramilo",
       "description": [
-        "Oh hi! My name is Vincent and I'm a 2nd year CogSci major from Sixth! "," I don’t really watch anime as much as I used to but some of my favorites are JJK, JJBA, AOT, SAO, One Piece, Frieren, Kaguya-Sama, Lycoris Recoil, and Bocchi the Rock! "," I also enjoy playing games from shooters to gacha to fighting to rhythm games, such as Overwatch or Marvel Rivals, Honkai: Star Rail, Guilty Gear Strive, and osu! mania. My top 3 favorite games of all time are Super Smash Bros (entire series), Persona 5 Royal, and Team Fortress 2. ","Some of my hobbies also involve drawing sketches, editing videos, coding projects, watching VTubers, and listening to music. It's nice to meet you all and I hope everyone has an amazing time at AME!"
+        "Oh hi! My name is Vincent and I'm a 3rd year CogSci major from Sixth! "," I don’t really watch anime as much as I used to but some of my favorites are JJK, JJBA, AOT, SAO, One Piece, Frieren, Kaguya-Sama, Lycoris Recoil, and Bocchi the Rock! "," I also enjoy playing games from shooters to gacha to fighting to rhythm games, such as Overwatch or Marvel Rivals, Honkai: Star Rail, Guilty Gear Strive, and osu! mania. My top 3 favorite games of all time are Super Smash Bros (entire series), Persona 5 Royal, and Team Fortress 2. ","Some of my hobbies also involve drawing sketches, editing videos, coding projects, watching VTubers, and listening to music. It's nice to meet you all and I hope everyone has an amazing time at AME!"
       ],
       "contact": [
         {
@@ -148,7 +94,7 @@
       "image": "images/officer_images/Neil.png",
       "name": "Neil Chakravarty",
       "description": [
-        "Yahallo! My name’s Neil, I’m a 3rd year Cognitive Science Major (Spec ML/NC) from 7th college."," I watch anime, my favorites being Re:Zero, Oregairu, and Love Is War. "," My hot take is that SAO is mostly a good show, and my main other interests include cooking, playing volleyball, and writing!"
+        "Yahallo! My name’s Neil, I’m a 4th year Cognitive Science Major (Spec ML/NC) from 7th college."," I watch anime, my favorites being Re:Zero, Oregairu, and Love Is War. "," My hot take is that SAO is mostly a good show, and my main other interests include cooking, playing volleyball, and writing!"
       ],
       "contact": [
         {
@@ -166,7 +112,7 @@
       "image": "images/officer_images/Alyssa.jpg",
       "name": "Alyssa Fernandez",
       "description": [
-        "Hello!! My name is Alyssa, and I'm a 2nd year ESYS: Environmental Chemistry major from Eighth College! "," I love to collect Manga and trinkets! ( If you want to know what I collect, lemme know, I'm always down to share).Animewise, I'm down to watch any genre, but some faves are Fruits Basket, One Piece, Ouran, SAO, Haikyuu, Given, Wotakoi, & Dungeon Meshi. "," I don't really play video games, but I'm always down to try something new! (However, I love the Zelda BOTW games.) I love to yap, so don’t be afraid to ask me anything. "," I hope to meet everyone at our GBMs and events!"
+        "Hello!! My name is Alyssa, and I'm a 3rd year ESYS: Environmental Chemistry major from Eighth College! "," I love to collect Manga and trinkets! ( If you want to know what I collect, lemme know, I'm always down to share).Animewise, I'm down to watch any genre, but some faves are Fruits Basket, One Piece, Ouran, SAO, Haikyuu, Given, Wotakoi, & Dungeon Meshi. "," I don't really play video games, but I'm always down to try something new! (However, I love the Zelda BOTW games.) I love to yap, so don’t be afraid to ask me anything. "," I hope to meet everyone at our GBMs and events!"
       ],
       "contact": [
         {
@@ -184,7 +130,7 @@
       "image": "images/officer_images/Ryan.png",
       "name": "Ryan Estanislao",
       "description": [
-        "Hello! I’m Ryan, a second-year Computer Science major in Eighth College."," The anime I watch is skewed pretty heavily toward isekai and fantasy shows, my favorites being Seirei Gensouki, Machikado Mazoku, and MagiRevo. "," My favorite games, both online and on the board, tend to be strategy related, such as EU4 and Diplomacy. Other than that, I enjoy collecting figures and playing volleyball. "," Hope you enjoy your time here and feel free to recommend anime to me!"
+        "Hello! I’m Ryan, a third-year Computer Science major in Eighth College."," The anime I watch is skewed pretty heavily toward isekai and fantasy shows, my favorites being Seirei Gensouki, Machikado Mazoku, and MagiRevo. "," My favorite games, both online and on the board, tend to be strategy related, such as EU4 and Diplomacy. Other than that, I enjoy collecting figures and playing volleyball. "," Hope you enjoy your time here and feel free to recommend anime to me!"
       ],
       "contact": [
         {
@@ -202,7 +148,7 @@
       "image": "images/officer_images/tiffany_profile.jpg",
       "name": "Tiffany Vo",
       "description":[
-        "Hi hi! I'm Tiffany, a 1st year computer science major from Warren! "," I usually prefer to watch shounen, horror, and mystery animes. Some of my faves are Attack on Titan, Hunter x Hunter, and Bungou Stray Dogs! "," I’m a fan of many gacha games, especially hoyo games such as genshin and HSR! "," I also really like indie horror games (any chilla’s art game, MiSide, fears to fathom) but I mainly watch YouTubers play them because my heart usually cannot take it… "," Some of my other interests are listening to Kpop, horror movies, watching vtubers, and hyperfixating on Chiikawa. I hope you all have a great time at AME and feel free to reach out if you wanna chat about anything ٩( 'ω' )و"
+        "Hi hi! I'm Tiffany, a 2nd year computer science major from Warren! "," I usually prefer to watch shounen, horror, and mystery animes. Some of my faves are Attack on Titan, Hunter x Hunter, and Bungou Stray Dogs! "," I’m a fan of many gacha games, especially hoyo games such as genshin and HSR! "," I also really like indie horror games (any chilla’s art game, MiSide, fears to fathom) but I mainly watch YouTubers play them because my heart usually cannot take it… "," Some of my other interests are listening to Kpop, horror movies, watching vtubers, and hyperfixating on Chiikawa. I hope you all have a great time at AME and feel free to reach out if you wanna chat about anything ٩( 'ω' )و"
       ],
       "contact": [
         {
@@ -238,7 +184,7 @@
       "image": "images/officer_images/jasmine_profile.jpg",
       "name": "Jasmine Huang",
       "description":[
-        "Hiiii!! I’m Jasmine from Warren, 1st year Human Biology. "," My one and only peak anime is LOVELIVE μ’s but I'm also into any other anime’s, especially shoujo, action, and sports! My recent favorites includes medalist (season 2 coming!) and Hunter x Hunter. "," I also do a lot of cosplay! I started cosplaying abt 8 years ago. For games, I played games more on steam. I usually play Stardew Valley , Hollow Knight, and Overcooked with my friends :3. Unfortunately, I use Mac so I can’t play a lot of them💀 "," My other interests r kpop (Straykids and all girl groups), musicals (recent into Hadestown), just laying down on everywhere (´-ω-`), and watching others play games! "," Wish u have fun in AME!"
+        "Hiiii!! I’m Jasmine from Warren, 2nd year Human Biology. "," My one and only peak anime is LOVELIVE μ’s but I'm also into any other anime’s, especially shoujo, action, and sports! My recent favorites includes medalist (season 2 coming!) and Hunter x Hunter. "," I also do a lot of cosplay! I started cosplaying abt 8 years ago. For games, I played games more on steam. I usually play Stardew Valley , Hollow Knight, and Overcooked with my friends :3. Unfortunately, I use Mac so I can’t play a lot of them💀 "," My other interests r kpop (Straykids and all girl groups), musicals (recent into Hadestown), just laying down on everywhere (´-ω-`), and watching others play games! "," Wish u have fun in AME!"
  
       ],
       "contact": [
@@ -257,7 +203,7 @@
       "image": "images/officer_images/mandy_profile.jpg",
       "name": "Mandy Wu",
       "description":[
-        "Hai Hai! I’m Mandy Wu, first year in Revelle, majoring in Business Econ! "," I love reading mangas and manhwas more than watching animes, but I love rom coms and isekai villains (especially if they have angsty backstories). "," I enjoy playing gacha games, especially HOYO games (you could say I’ve played every single one of them) and enjoy (suffering) Honor of Kings. "," I also enjoy drawing, reading novels, insta video editing, and watching BATMAN. I’m always open to DMs (especially BL recs or discussions!)"
+        "Hai Hai! I’m Mandy Wu, second year in Revelle, majoring in Business Econ! "," I love reading mangas and manhwas more than watching animes, but I love rom coms and isekai villains (especially if they have angsty backstories). "," I enjoy playing gacha games, especially HOYO games (you could say I’ve played every single one of them) and enjoy (suffering) Honor of Kings. "," I also enjoy drawing, reading novels, insta video editing, and watching BATMAN. I’m always open to DMs (especially BL recs or discussions!)"
         ],
       "contact": [
         {
@@ -275,7 +221,7 @@
       "image": "images/officer_images/ching_profile.png",
       "name": "Ching Ying Kok",
       "description":[
-        "Ello! I’m Ching/Mx, and I’m a 1st year psychology major at ERC. "," I don’t really watch any particular anime genres, I just tend to get into new animes really slowly. My favorite anime is The Summer Hikaru Died. "," I love any horror indie game, such as No I’m Not a Human, FNAF, and Mouthwashing. Besides that, I also like listening to vocaloid, reading, writing, and drawing. "," I’m always down to yap, so send me a message if you want to talk about anything! Have a wonderful time in AME :) "
+        "Ello! I’m Ching/Mx, and I’m a 2nd year psychology major at ERC. "," I don’t really watch any particular anime genres, I just tend to get into new animes really slowly. My favorite anime is The Summer Hikaru Died. "," I love any horror indie game, such as No I’m Not a Human, FNAF, and Mouthwashing. Besides that, I also like listening to vocaloid, reading, writing, and drawing. "," I’m always down to yap, so send me a message if you want to talk about anything! Have a wonderful time in AME :) "
         ],
       "contact": [
         {

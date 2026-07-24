@@ -4,20 +4,6 @@
       "title": "Anime Club at UC San Diego",
       "description": "Meetings every Monday, and other social events throughout the quarter! We also have a very active Discord server!",
       "image": "images/carousel_images/karaoke_banner.png"
-    },
-    {
-      "title": "Animefest 2024",
-      "description": "We hope you enjoyed Animefest 2024! Look out for information on our next Animefest!",
-      "image": "images/carousel_images/af24_banner.png"
-    },
-    {
-      "title": "",
-      "description": "",
-      "image": "images/carousel_images/af25_banner.png",
-      "link": {
-        "name": "Click here to go to the website!",
-        "address": "https://animefest.ucsd.moe/"
-      }
     }
   ]
 }
