@@ -2,6 +2,16 @@
   "gallery": {
     "2025-2026": [
       {
+        "image": "images/gallery/aggie_sp26.png",
+        "thumbnail": "images/gallery/thumbnail/aggie_sp26_thumbnail.png",
+        "description": "Spring 2026 Aggie.io"
+      },
+      {
+        "image": "images/gallery/aggie_wi26.png",
+        "thumbnail": "images/gallery/thumbnail/aggie_wi26_thumbnail.png",
+        "description": "Winter 2026 Aggie.io"
+      },
+      {
         "image": "images/gallery/aggie_fa25.png",
         "thumbnail": "images/gallery/thumbnail/aggie_fa25_thumbnail.png",
         "description": "Fall 2025 Aggie.io"
