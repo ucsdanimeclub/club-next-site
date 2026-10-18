@@ -29,6 +29,11 @@
       "name": "YouTube",
       "icon": "images/social_media/youtube.png",
       "url": "https://www.youtube.com/channel/UC5GqPKHSGDl18dKxpwn0juw"
+    },
+    {
+      "name": "Tiktok",
+      "icon": "images/social_media/tiktok.png",
+      "url": "https://www.tiktok.com/@animeclubatucsd"
     }
   ]
 }
